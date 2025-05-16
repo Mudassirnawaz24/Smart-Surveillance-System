@@ -49,10 +49,5 @@ The **Smart Surveillance System (S3)** is an advanced AI-powered security soluti
 - `utils/`: Utility scripts for processing video feeds, handling alerts, etc.
 - `data/`: Sample data and configurations for testing the system.
 
-## Contact
 
-For any questions, suggestions, or issues, feel free to contact me via GitHub:
-
-- **GitHub**: [Sanskar Choubey](https://github.com/sanskarchoubey)
-- **LinkedIm**: [Sanskar Choubey](https://www.linkedin.com/in/sanskarchoubey14)
 
